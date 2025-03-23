@@ -1,0 +1,17 @@
+com/sample/utils/LoggerUtil.class
+com/sample/api/author/AuthorAPI.class
+com/sample/constant/DriverType.class
+com/sample/utils/TestDataGenerate.class
+com/sample/api/books/CreateBookResponse.class
+com/sample/function/Books.class
+com/sample/constant/TabName.class
+com/sample/utils/ProjectProperties.class
+com/sample/page/BasePage.class
+com/sample/constant/HeadersAPI.class
+com/sample/api/APIBase.class
+com/sample/api/RestClient.class
+com/sample/api/books/CreateBookRequest.class
+com/sample/page/BooksPage.class
+com/sample/function/BaseFunction.class
+com/sample/utils/DriverHolder.class
+com/sample/api/books/BooksAPI.class
